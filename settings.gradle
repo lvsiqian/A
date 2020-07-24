@@ -1,0 +1,2 @@
+include ':app', ':Demo1'
+rootProject.name='ppp'
